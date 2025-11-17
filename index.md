@@ -32,6 +32,7 @@ Overall, I am interested in the design and control of intelligent, but simple me
 We introduce MiniBEE, which is a miniature bi-manual end-effector for compact robotic dexterity. MiniBEE takes a new approach to bi-manual dexterity. 
 <img src="images/minibee_eyecandy_website.jpg?raw=true"/>
 
+---
 [Low-Cost 6-Axis Force/Torque Sensor for Robot Hands](ft6.md)<br/>
 A novel method for six-axis force/torque sensing that allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
 <img src="images/eyecandy.png?raw=true"/>
@@ -50,11 +51,11 @@ By leveraging the passive 3D dynamics, carefully designing the spherical feet, a
 
 
 ---
-
 ## Publications
 
 
 **S. Islam^**, Z. Chen^, Z. He^, S. Bhatt, A. Permuy, B. Taylor, J. Vickery, Z. Lu, C. Zhang, P. Piacenza, and M. Ciocarlie. "MiniBEE: A New Form Factor for Compact Bimanual Dexterity", under review (^joint first authorship)
+<br/>
 <br/>
 A. El-Azizi^, **S. Islam^**, P. Piacenza^, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2025 (^joint first authorship)
 <br/>
