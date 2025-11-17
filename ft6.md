@@ -1,6 +1,6 @@
-## Low-Cost 6-Axis Force/Torque Sensor for Robot Hands
+## PopcornFT, a low-cost sensor for 6-axis contact sensing in robot hands. 
 
-[<a href="https://arxiv.org/abs/2410.03481">Paper</a>][<a href="https://youtu.be/QZGhIQBNQCY">Video</a>]
+[<a href="https://roamlab.github.io/PopcornFT/">Project Webpage</a>][<a href="https://arxiv.org/abs/2410.03481">Paper</a>][<a href="https://youtu.be/QZGhIQBNQCY">Video</a>]
 
 Force/torque sensing is an important modality for robotic manipulation, but commodity solutions, generally developed with other applications in mind, do not generally fit the needs of robot hands. We use LEDs mounted on two plates connected by a transparent elastomer to sense displacement between the plates and relate it to applied forces and torques. This method allows for a compact, fully integrated package at a low manufacturing cost.
 
