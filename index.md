@@ -54,7 +54,9 @@ By leveraging the passive 3D dynamics, carefully designing the spherical feet, a
 ## Publications
 
 
-A. El-Azizi^, **S. Islam^**, P. Piacenza^, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", under review (^joint first authorship)
+**S. Islam^**, Z. Chen^, Z. He^, S. Bhatt, A. Permuy, B. Taylor, J. Vickery, Z. Lu, C. Zhang, P. Piacenza, and M. Ciocarlie. "MiniBEE: A New Form Factor for Compact Bimanual Dexterity", under review (^joint first authorship)
+<br/>
+A. El-Azizi^, **S. Islam^**, P. Piacenza^, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2025 (^joint first authorship)
 <br/>
 <br/>
 **S. Islam^**, Z. He^, M. Ciocarlie. "Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains", IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2024 (^joint first authorship)
