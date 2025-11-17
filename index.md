@@ -1,9 +1,9 @@
 <meta name="google-site-verification" content="5lWOJWWiTsUq2h2oeK0XOwg8ERSNiTIs2ZsILZ_wYSM" />
 ## About Me
 
-Hello! My name is Sharfin and I am a fourth year doctoral student at Columbia University. I am advised by Matei Ciocarlie and work on mechanical design of robotic manipulators. Before my PhD, I worked on design of minimally actuated quasi-passive walkers with Aaron Johnson, Sarah Bergbreiter, and Justin Yim.
+Hello! My name is Sharfin and I am a fifth year doctoral student at Columbia University studying robotics. I am advised by Matei Ciocarlie and work enabling more capable robots through thoughtful, intelligent hardware design. Before my PhD, I worked on design of minimally actuated quasi-passive walkers with Aaron Johnson, Sarah Bergbreiter, and Justin Yim. 
 <br><br/>
-Overall, I am interested in the design and control of intelligent, but simple mechanisms that can be deployed in real robotic applications. 
+Overall, I am interested in the design and control of intelligent, but simple mechanisms that can be deployed in real robotic applications. I enjoy working across the entire spectrum of robotics and automation, where I can leverage my expertise in mechanism design in a full-stack robotic application. 
 <br><br/>
 
 ---
@@ -16,13 +16,21 @@ Overall, I am interested in the design and control of intelligent, but simple me
 
 ## News
 
-[Oct 2024] - Presented <a href="https://arxiv.org/abs/2405.14566">paper</a> on hardware/software co-optimization for underactuated tendon transmissions at IROS 2024!<br/>
-[Oct 2024] - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="https://mobile-manipulation.net/events/moma-iros24/">(MOMA.v3)</a><br/>
-[Sept 2024] - Submitted <a href="https://arxiv.org/abs/2410.03481">paper</a> on low-cost 6-axis force/torque sensor to ICRA 2025<br/>
+[Oct 2025] - Won 1st place at <a href="https://app.brazenconnect.com/a/amazon-recruiting-other/e/zq8Wn">Amazon Robotic's PhD Communication Competition</a>, where I presented a 5-minute summary of my thesis work!<br/>
+[Oct 2025] - Presented first version of<a href="https://roamlab.github.io/PopcornFT/">PopcornFT</a> on a low-cost sensor for robot manipulation virtually at IROS 2025!<br/>
+[Sept 2025] - Submitted <a href="https://roamlab.github.io/minibee/">MiniBEE</a>, a novel bi-manual platform, for publication at ICRA 2026<br/>
+[June 2025] - Started summer internship at  <a href="https://www.proception.ai/">Proception Ai</a><br/>
+[May 2025] - Successfully passed my thesis proposal!<br/>
+[Oct 2024] - Presented <a href="https://arxiv.org/abs/2405.14566">paper</a> on hardware/software co-optimization for underactuated tendon transmissions at IROS 2024 in Abu Dhabi!<br/>
+[Oct 2024] - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="https://mobile-manipulation.net/events/moma-iros24/">(MOMA.v3)</a> at IROS 2024<br/>
 [May 2022] - Presented <a href="https://ieeexplore.ieee.org/document/9812053">paper</a> on minimally actuated quasi-passive walker at ICRA 2022! Also featured in <a href="https://spectrum.ieee.org/a-first-small-step-towards-a-lego-sized-humanoid-robot">IEEE Spectrum</a><br/>
 
 ---
 ## Projects
+
+[MiniBEE, a novel platform for bi-manual robotic dexterity](minibee.md)<br/>
+We introduce MiniBEE, which is a miniature bi-manual end-effector for compact robotic dexterity. MiniBEE takes a new approach to bi-manual dexterity. 
+<img src="images/minibee_eyecandy_website.png?raw=true"/>
 
 [Low-Cost 6-Axis Force/Torque Sensor for Robot Hands](ft6.md)<br/>
 A novel method for six-axis force/torque sensing that allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
