@@ -17,7 +17,7 @@ Overall, I am interested in the design and control of intelligent, but simple me
 ## News
 
 [Oct 2025] - Won 1st place at <a href="https://app.brazenconnect.com/a/amazon-recruiting-other/e/zq8Wn">Amazon Robotic's PhD Communication Competition</a>, where I presented a 5-minute summary of my thesis work!<br/>
-[Oct 2025] - Presented first version of<a href="https://roamlab.github.io/PopcornFT/">PopcornFT</a> on a low-cost sensor for robot manipulation virtually at IROS 2025!<br/>
+[Oct 2025] - Presented first version of <a href="https://roamlab.github.io/PopcornFT/">PopcornFT</a>, a low-cost sensor for robot manipulation, virtually at IROS 2025!<br/>
 [Sept 2025] - Submitted <a href="https://roamlab.github.io/minibee/">MiniBEE</a>, a novel bi-manual platform, for publication at ICRA 2026<br/>
 [June 2025] - Started summer internship at  <a href="https://www.proception.ai/">Proception Ai</a><br/>
 [May 2025] - Successfully passed my thesis proposal!<br/>
@@ -36,14 +36,11 @@ We introduce MiniBEE, which is a miniature bi-manual end-effector for compact ro
 A novel method for six-axis force/torque sensing that allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
 <img src="images/eyecandy.png?raw=true"/>
 
-
-
 ---
 [Multi-Flexor Tendon Transmission Design, Modelling, and Co-Optimization](coop.md)<br/>
 We first formulate a general model for an underactuated, tendon-driven transmission and then use this model to co-optimize a three-link, two-actuator kinematic chain using reinforcement learning.
 
 <img src="images/eye-candy_co.png?raw=true"/>
-
 
 ---
 [Miniature Minimally Actuated Quasi-Passive Walker](walker.md)<br/>
